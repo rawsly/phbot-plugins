@@ -1,0 +1,2 @@
+# phbot-plugins
+PHBot Plugins
